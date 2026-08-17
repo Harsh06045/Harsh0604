@@ -96,7 +96,7 @@
 const harsh = {
   name      : "Harsh Kumar",
   location  : "📍 Anand, Gujarat — 388001",
-  phone     : "📞 +91-7862816335",
+  E-mail    : "📞 harsh.kumar60456@gmail.com",
 
   roles: [
     "☕ Java Developer",
@@ -109,7 +109,7 @@ const harsh = {
     degree      : "🎓 BE in Computer Science Engineering",
     university  : "🏛️ Sathyabama Institute of Science & Technology",
     location    : "📍 Jeppiaar Nagar, Chennai",
-    cgpa        : "⭐ 8.33 / 10.00",
+    cgpa        : "⭐ 8.40 / 10.00",
     batch       : "📅 2023 – 2027"
   },
 
