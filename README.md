@@ -504,7 +504,7 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/Harsh06045/Harsh06045/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="./github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
