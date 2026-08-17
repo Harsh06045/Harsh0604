@@ -8,7 +8,7 @@
 <!-- ━━━━━━━━━━━━━━━━━ ANIMATED WAVING HERO HEADER ━━━━━━━━━━━━━━━━━ -->
 <a href="https://github.com/Harsh06045">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:16213e,35:EC612C,55:e84545,75:00D9FF,100:BD00FF&height=250&section=header&text=HARSH%20KUMAR&fontSize=72&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=🔥%20JAVA%20%E2%80%A2%20DSA%20(400%2B)%20%E2%80%A2%20MERN%20%E2%80%A2%20AI/ML%20%E2%80%A2%20HACKATHON%20WINNER%20🔥&descAlignY=56&descSize=16&descColor=90EE90&stroke=EC612C&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:16213e,35:EC612C,55:e84545,75:00D9FF,100:BD00FF&height=250&section=header&text=HARSH%20KUMAR&fontSize=72&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=🔥%20JAVA%20%E2%80%A2%20DSA%20(300%2B)%20%E2%80%A2%20MERN%20%E2%80%A2%20AI/ML%20%E2%80%A2%20HACKATHON%20WINNER%20🔥&descAlignY=56&descSize=16&descColor=90EE90&stroke=EC612C&strokeWidth=1"
     width="100%"
     alt="Harsh Kumar — Ultra Animated Header"
   />
@@ -17,12 +17,12 @@
 <!-- ━━━━━━━━━━━━━ MULTI-LINE ANIMATED TYPING INTRO ━━━━━━━━━━━━━━━ -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=FFFFFF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=%3E%3E+HARSH+KUMAR+%7C+SOFTWARE+ENGINEER;%3E%3E+HACKATHON+WINNER+%7C+400%2B+DSA+SOLVED"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=FFFFFF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=%3E%3E+HARSH+KUMAR+%7C+SOFTWARE+ENGINEER;%3E%3E+HACKATHON+WINNER+%7C+300%2B+DSA+SOLVED"
   alt="Name Animation"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1800&pause=600&color=EC612C&background=0D111700&center=true&vCenter=true&width=950&height=65&lines=%F0%9F%94%A5+BUILDING+SCALABLE+MERN+APPLICATIONS;%F0%9F%A7%A0+400%2B+DSA+PROBLEMS+CRUSHED+IN+JAVA;%F0%9F%A4%96+AI-POWERED+HEALTHCARE+PLATFORMS;%F0%9F%9A%80+FROM+IDEA+TO+DEPLOYED+PRODUCTION;%F0%9F%8F%86+HACKATHON+WINNER+%E2%80%A2+STARTUP+FEST+PRESENTER"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1800&pause=600&color=EC612C&background=0D111700&center=true&vCenter=true&width=950&height=65&lines=%F0%9F%94%A5+BUILDING+SCALABLE+MERN+APPLICATIONS;%F0%9F%A7%A0+300%2B+DSA+PROBLEMS+CRUSHED+IN+JAVA;%F0%9F%A4%96+AI-POWERED+HEALTHCARE+PLATFORMS;%F0%9F%9A%80+FROM+IDEA+TO+DEPLOYED+PRODUCTION;%F0%9F%8F%86+HACKATHON+WINNER+%E2%80%A2+STARTUP+FEST+PRESENTER"
   alt="Subtitle Typing Animation"
 />
 
@@ -33,7 +33,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 &nbsp;
 <img src="https://img.shields.io/badge/JAVA-EC612C?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA%20(400+)-90EE90?style=for-the-badge&logo=leetcode&logoColor=111111"/>
+<img src="https://img.shields.io/badge/DSA%20(300+)-90EE90?style=for-the-badge&logo=leetcode&logoColor=111111"/>
 <img src="https://img.shields.io/badge/MERN-89CFF0?style=for-the-badge&logo=react&logoColor=111111"/>
 <img src="https://img.shields.io/badge/AI%2FML-BD00FF?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HACKATHON%20WINNER-FFD700?style=for-the-badge&logo=trophy&logoColor=111111"/>
@@ -100,7 +100,7 @@ const harsh = {
 
   roles: [
     "☕ Java Developer",
-    "🧩 DSA Enthusiast — 400+ Problems Solved",
+    "🧩 DSA Enthusiast — 300+ Problems Solved",
     "🌐 MERN Full-Stack Developer",
     "🤖 AI / ML Enthusiast"
   ],
@@ -159,7 +159,7 @@ const harsh = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/DSA-400%2B%20Solved-EC612C?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-300%2B%20Solved-EC612C?style=flat-square"/>
 <img src="https://img.shields.io/badge/OOP-Core-90EE90?style=flat-square"/>
 <img src="https://img.shields.io/badge/DBMS-NPTEL%20Certified-89CFF0?style=flat-square"/>
 <img src="https://img.shields.io/badge/System%20Design-Learning-BD00FF?style=flat-square"/>
@@ -238,7 +238,7 @@ const harsh = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"> DSA JOURNEY — 400+ PROBLEMS SOLVED
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"> DSA JOURNEY — 300+ PROBLEMS SOLVED
 
 <br/>
 
@@ -546,7 +546,7 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 <br/><sub>Active Days</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/🧩-400+-90EE90?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🧩-300+-90EE90?style=for-the-badge&labelColor=0D1117"/>
 <br/><br/>
 <b>DSA Problems<br/>Solved</b>
 <br/><sub>LC + GFG</sub>
@@ -584,7 +584,7 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 ## 🟧 SYSTEM STATUS
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1300&pause=600&color=EC612C&center=true&vCenter=true&width=800&height=140&lines=%24+systemctl+status+harsh.dev;%E2%94%8C+STATUS+%3A+%E2%9C%94+ONLINE;%E2%94%9C+BUILDING+%3A+%E2%9C%94+MERN+Applications;%E2%94%9C+SOLVING+%3A+%E2%9C%94+400%2B+DSA+%26+Counting;%E2%94%9C+LEARNING+%3A+%E2%9C%94+Java+%2B+Spring+Boot;%E2%94%94+DEPLOYING+%3A+%E2%9C%94+Vercel+%26+Render"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1300&pause=600&color=EC612C&center=true&vCenter=true&width=800&height=140&lines=%24+systemctl+status+harsh.dev;%E2%94%8C+STATUS+%3A+%E2%9C%94+ONLINE;%E2%94%9C+BUILDING+%3A+%E2%9C%94+MERN+Applications;%E2%94%9C+SOLVING+%3A+%E2%9C%94+300%2B+DSA+%26+Counting;%E2%94%9C+LEARNING+%3A+%E2%9C%94+Java+%2B+Spring+Boot;%E2%94%94+DEPLOYING+%3A+%E2%9C%94+Vercel+%26+Render"
   alt="System Status Terminal Animation"
 />
 
