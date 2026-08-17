@@ -1,14 +1,11 @@
-name: Generate GitHub Animations
+name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    # Run every 12 hours
     - cron: "0 */12 * * *"
 
-  # Allow manual execution
   workflow_dispatch:
 
-  # Run whenever README/workflow changes are pushed
   push:
     branches:
       - main
@@ -17,34 +14,26 @@ permissions:
   contents: write
 
 jobs:
-
-  # ==========================================================
-  # 1. CONTRIBUTION SNAKE
-  # ==========================================================
-
-  snake:
-    name: Generate Contribution Snake
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
-
         with:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300F7FF
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300F7FF
+            dist/github-contribution-grid-snake.svg?color_snake=%2300DFFF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300DFFF
 
-      - name: Publish Snake Animation
+      - name: Push Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
-
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update contribution snake"
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
