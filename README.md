@@ -1,534 +1,145 @@
-<!-- ========================================================= -->
-<!--                     HERO SECTION                          -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D9FF,75:BD00FF,100:0D1117&height=230&section=header&text=HARSH%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Java%20%7C%20DSA%20%7C%20MERN%20%7C%20AI%2FML&descAlignY=62&descSize=20&descColor=00D9FF"
-    width="100%"
-    alt="Harsh Kumar"
-  />
+<!-- Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harsh%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Building+Scalable+Applications;%F0%9F%A7%A0+Solving+DSA+Problems;%F0%9F%A4%96+Building+AI-Powered+Systems;%F0%9F%9A%80+Turning+Ideas+Into+Products"
-    alt="Typing Animation"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117"
-    alt="Status"
-  />
-
-  <img
-    src="https://img.shields.io/badge/FOCUS-JAVA%20%7C%20DSA-00D9FF?style=for-the-badge&labelColor=0D1117"
-    alt="Focus"
-  />
-
-  <img
-    src="https://img.shields.io/badge/MODE-BUILDING-BD00FF?style=for-the-badge&labelColor=0D1117"
-    alt="Mode"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=Harsh06045&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-
-  <a href="https://github.com/Harsh06045">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://linkedin.com/in/harsh-k-95327927a">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:harsh.kumar60456@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
-      alt="Gmail"
-    />
-  </a>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Harsh+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Java+%26+DSA+Problem+Solver+%F0%9F%A7%A0;300%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Hackathon+Winner+%F0%9F%8F%86;Always+building+cool+stuff..." alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
-<!-- ========================================================= -->
+## 🧑‍💻 About Me
 
-<div align="center">
-
-  <h2>👨‍💻 ABOUT ME</h2>
-
-  <br/>
-
-  <pre align="left">
-const harsh = {
-  name: "Harsh Kumar",
-
-  role: [
-    "Java Developer",
-    "DSA Enthusiast",
-    "MERN Developer",
-    "AI/ML Enthusiast"
-  ],
-
-  education:
-    "Sathyabama Institute of Science and Technology",
-
-  interests: [
-    "Data Structures & Algorithms",
-    "Backend Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Full-Stack Development"
-  ],
-
-  currentlyLearning: [
-    "Advanced Java",
-    "DSA",
-    "SQL",
-    "Spring Boot",
-    "System Design",
-    "AI/ML"
-  ],
-
-  philosophy:
-    "Learn → Build → Debug → Improve"
-};
-  </pre>
-
-</div>
-
-<br/>
+```java
+public class HarshKumar {
+    String[] roles     = {"Java Developer", "Full-Stack Dev", "DSA Practitioner"};
+    String   college   = "Sathyabama Institute of Science & Technology, Chennai";
+    String   degree    = "B.E. Computer Science Engineering (CGPA: 8.33)";
+    String[] building  = {"NeuroFusionAI", "BloodCare", "EduLearn Pro"};
+    String[] goal      = {"Software Engineering Internship", "Placement Role"};
+    String   funFact   = "I debug in Java and dream in React 😄";
+}
+```
 
 ---
 
-<!-- ========================================================= -->
-<!--                    TECH ARSENAL                           -->
-<!-- ========================================================= -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <h2>⚡ TECH ARSENAL</h2>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-  <br/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <h3>💻 Languages</h3>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <img
-    src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript&theme=dark"
-    alt="Languages"
-  />
-
-  <br/><br/>
-
-  <h3>🎨 Frontend</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark"
-    alt="Frontend"
-  />
-
-  <br/><br/>
-
-  <h3>⚙️ Backend</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark"
-    alt="Backend"
-  />
-
-  <br/><br/>
-
-  <h3>🗄️ Database</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark"
-    alt="Database"
-  />
-
-  <br/><br/>
-
-  <h3>🛠️ Tools</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark"
-    alt="Tools"
-  />
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     DSA JOURNEY                           -->
-<!-- ========================================================= -->
+## 🚀 Featured Projects
 
 <div align="center">
 
-  <h2>🧠 DSA JOURNEY</h2>
-
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1400&pause=400&color=39FF14&center=true&vCenter=true&width=900&height=180&lines=Arrays+%E2%86%92+Strings+%E2%86%92+HashMap;Linked+List+%E2%86%92+Stack+%E2%86%92+Queue;Trees+%E2%86%92+Graphs+%E2%86%92+Greedy;Dynamic+Programming+%E2%86%92+Problem+Solving"
-    alt="DSA Animation"
-  />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/ARRAYS-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STRINGS-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HASHMAP-39FF14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LINKED%20LIST-39FF14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TREES-BD00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GRAPHS-BD00FF?style=for-the-badge"/>
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **NeuroFusionAI** | AI-powered Alzheimer's prediction platform with role-based dashboards for admins, doctors & patients | React, Node.js, Python, MongoDB |
+| 🩸 **BloodCare** | End-to-end healthcare ecosystem — blood donation, AI diagnostics, biometric access & hemodialysis support | React, Node.js, ML Models |
+| 📚 **EduLearn Pro** | Full-stack online learning platform with course enrollment, payments & personalized dashboards | React (Vite), Node.js, Express |
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   PROJECTS                                -->
-<!-- ========================================================= -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <h2>🚀 FEATURED PROJECTS</h2>
-
-</div>
-
-<table align="center" width="95%">
-
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>🩺 NeuroFusionAI</h3>
-
-      <p>
-        AI-powered healthcare platform for neurodegenerative disease analysis.
-      </p>
-
-      <p><strong>Technology</strong></p>
-
-      <p>
-        <code>React</code>
-        <code>Node.js</code>
-        <code>Express</code>
-        <code>MongoDB</code>
-        <code>Python</code>
-        <code>Machine Learning</code>
-        <code>Explainable AI</code>
-      </p>
-
-      <p><strong>Highlights</strong></p>
-
-      <ul>
-        <li>🧠 Alzheimer's prediction</li>
-        <li>🔬 Explainable AI</li>
-        <li>👨‍⚕️ Doctor dashboard</li>
-        <li>🧑‍🦽 Patient dashboard</li>
-        <li>🛡️ Admin dashboard</li>
-      </ul>
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>🩸 BloodCare</h3>
-
-      <p>
-        Centralized healthcare ecosystem combining healthcare services and AI.
-      </p>
-
-      <p><strong>Technology</strong></p>
-
-      <p>
-        <code>React</code>
-        <code>Node.js</code>
-        <code>MongoDB</code>
-        <code>AI</code>
-        <code>Computer Vision</code>
-        <code>Cloud</code>
-      </p>
-
-      <p><strong>Highlights</strong></p>
-
-      <ul>
-        <li>🩸 Blood donation</li>
-        <li>🩻 AI diagnostics</li>
-        <li>📷 X-ray analysis</li>
-        <li>💊 Medicine reminders</li>
-      </ul>
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>🎓 EduLearn Pro</h3>
-
-      <p>
-        Full-stack learning management platform.
-      </p>
-
-      <p>
-        <code>MongoDB</code>
-        <code>Express</code>
-        <code>React</code>
-        <code>Node.js</code>
-        <code>Stripe</code>
-        <code>Clerk</code>
-        <code>Vercel</code>
-      </p>
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>🤖 AI / RAG Projects</h3>
-
-      <p>
-        Intelligent applications using retrieval-based AI systems.
-      </p>
-
-      <p>
-        <code>Python</code>
-        <code>LlamaIndex</code>
-        <code>FAISS</code>
-        <code>Llama</code>
-        <code>RAG</code>
-        <code>Vector Search</code>
-      </p>
-
-    </td>
-
-  </tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh06045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh06045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="180"/>
 
 <br/>
 
----
-
-<!-- ========================================================= -->
-<!--                     GITHUB STATS                           -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <h2>📊 GITHUB STATISTICS</h2>
-
-  <br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Harsh06045&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh06045&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh06045&layout=compact&theme=tokyonight&hide_border=true"
-    width="42%"
-    alt="Top Languages"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh06045&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=ffffff" width="600"/>
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ========================================================= -->
-<!--                     ACTIVITY                              -->
-<!-- ========================================================= -->
+## 🏆 Competitive Programming
 
 <div align="center">
 
-  <h2>📈 LIVE ACTIVITY</h2>
+![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-100%2B%20Challenges-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-  <br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh06045&bg_color=0D1117&color=00D9FF&line=BD00FF&point=39FF14&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Activity"
-  />
+**Strong in:** Arrays • Linked Lists • Trees • Graphs • Dynamic Programming • Sorting • Recursion
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION SNAKE                        -->
-<!-- ========================================================= -->
+## 🏅 Achievements
 
-<div align="center">
-
-  <h2>🐍 CONTRIBUTION SNAKE</h2>
-
-  <br/>
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Harsh06045/Harsh06045/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Harsh06045/Harsh06045/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Harsh06045/Harsh06045/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-
-</div>
-
-<br/>
+- 🏆 **Hackathon Winner** — Innovator's Hackathon (Team of 5)
+- 🚀 **Startup Fest 2025** — Showcased BloodCare to industry visitors
+- 🎨 **Design Team Leader** — Mathematics Club, Sathyabama University
 
 ---
 
-<!-- ========================================================= -->
-<!--                    ACHIEVEMENTS                            -->
-<!-- ========================================================= -->
+## 📜 Certifications
 
 <div align="center">
 
-  <h2>🏆 ACHIEVEMENTS</h2>
+![NPTEL](https://img.shields.io/badge/NPTEL-DBMS%20%7C%20OOP%20%7C%20IR-blue?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Generative%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database%20Certified-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Imarticus](https://img.shields.io/badge/Imarticus-Machine%20Learning-purple?style=flat-square)
 
 </div>
-
-<table align="center">
-
-  <tr>
-    <th>Achievement</th>
-    <th>Status</th>
-  </tr>
-
-  <tr>
-    <td>🥇 Internal College Hackathon</td>
-    <td>Winner</td>
-  </tr>
-
-  <tr>
-    <td>🥈 VIT Hackathon</td>
-    <td>Runner-Up</td>
-  </tr>
-
-  <tr>
-    <td>🔥 CodeChef Streak</td>
-    <td>200+ Days</td>
-  </tr>
-
-  <tr>
-    <td>🔥 LeetCode Streak</td>
-    <td>150+ Days</td>
-  </tr>
-
-  <tr>
-    <td>🚀 SIH'24</td>
-    <td>Pre-Qualifier</td>
-  </tr>
-
-</table>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                  CURRENTLY LEARNING                       -->
-<!-- ========================================================= -->
+## 🤝 Connect with Me
 
 <div align="center">
 
-  <h2>📚 CURRENTLY LEARNING</h2>
-
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1400&pause=500&color=BD00FF&center=true&vCenter=true&width=850&height=160&lines=%3E+Advanced+Java;%3E+Data+Structures+%26+Algorithms;%3E+Advanced+SQL;%3E+Spring+Boot;%3E+Backend+Architecture;%3E+Artificial+Intelligence;%3E+System+Design"
-    alt="Currently Learning"
-  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-k-95327927a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh06045)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.kumar60456@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    SYSTEM STATUS                          -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1200&pause=450&color=39FF14&center=true&vCenter=true&width=750&height=100&lines=%24+systemctl+status+harsh-dev;%3E+ONLINE+%E2%9C%94;%3E+BUILDING+%E2%9C%94;%3E+LEARNING+%E2%9C%94;%3E+SOLVING+%E2%9C%94"
-    alt="System Status"
-  />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh06045&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
-  <br/><br/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,35:00D9FF,70:0D1117,100:0D1117&height=170&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SOLVE&fontSize=30&fontColor=FFFFFF&animation=twinkling"
-    width="100%"
-    alt="Footer"
-  />
+<img src="https://komarev.com/ghpvc/?username=Harsh06045&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
-
-<table>
-  <tr>
-    <td width="50%">
-      ...
-    </td>
-
-    <td width="50%">
-      ...
-    </td>
-  </tr>
-</table>
