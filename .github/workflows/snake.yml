@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate GitHub Profile Assets
 
 on:
   # Run automatically every 12 hours
@@ -13,10 +13,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      # ─────────────── CHECKOUT ───────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ─────────────── CONTRIBUTION SNAKE ───────────────
+      - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,7 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      # ─────────────── PUSH SNAKE TO OUTPUT BRANCH ───────────────
+      - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
