@@ -419,7 +419,17 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 <img
   src="https://github-profile-trophy.vercel.app/?username=Harsh06045&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10"
   width="100%"
+  alt="GitHub Trophies"
 />
+
+<!-- Fallback: If trophies don't load, these achievement badges will show -->
+<br/>
+<img src="https://img.shields.io/badge/🏆-COMMIT%20STREAK-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⭐-STAR%20GAZER-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🔥-PULL%20REQUEST-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💻-REPOSITORY-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/👥-FOLLOWERS-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎯-ISSUES-FFD700?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -437,12 +447,12 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 
 <!-- Row 1: Stats + Streak -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Harsh06045&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=EC612C&icon_color=BD00FF&text_color=90EE90&ring_color=EC612C"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh06045&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=EC612C&icon_color=BD00FF&text_color=90EE90&ring_color=EC612C"
   width="48%"
 />
 &nbsp;
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh06045&theme=tokyonight&hide_border=true&background=0D1117&stroke=EC612C&ring=EC612C&fire=BD00FF&currStreakLabel=90EE90&sideLabels=00D9FF"
+  src="https://streak-stats.demolab.com/?user=Harsh06045&theme=tokyonight&hide_border=true&background=0D1117&stroke=EC612C&ring=EC612C&fire=BD00FF&currStreakLabel=90EE90&sideLabels=00D9FF"
   width="48%"
 />
 
@@ -450,7 +460,7 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 
 <!-- Row 2: Top Languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh06045&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC612C&text_color=90EE90&langs_count=8"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh06045&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC612C&text_color=90EE90&langs_count=8"
   width="38%"
 />
 
