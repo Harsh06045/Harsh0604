@@ -88,9 +88,15 @@
 <!-- ║                      ABOUT ME                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ABOUT ME
+
+<img src="./terminal-card.svg" width="100%" alt="Harsh Kumar Terminal Portfolio Card"/>
+
+</div>
+
+<br/>
 
 ```ts
 const harsh = {
@@ -476,6 +482,10 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 <div align="center">
 
 ## 📈 CONTRIBUTION HEATMAP
+
+<img src="./github-contribution-animation.svg" width="100%" alt="Harsh's Contribution Grid Animation"/>
+
+<br/><br/>
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh06045&bg_color=0D1117&color=EC612C&line=BD00FF&point=90EE90&area_color=16213e&area=true&hide_border=true&custom_title=Harsh%20Kumar%20%E2%80%94%20Daily%20Contribution%20Activity"
