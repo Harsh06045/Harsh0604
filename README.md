@@ -409,21 +409,22 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    GITHUB TROPHIES                           ║ -->
+<!-- ║                    PROFILE SUMMARY                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35"> GITHUB TROPHIES
+## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35"> GITHUB PROFILE OVERVIEW
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Harsh06045&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh06045&theme=tokyonight"
   width="100%"
-  alt="GitHub Trophies"
+  alt="GitHub Profile Overview"
 />
 
-<!-- Fallback: If trophies don't load, these achievement badges will show -->
-<br/>
+<br/><br/>
+
+<!-- Achievement Badges -->
 <img src="https://img.shields.io/badge/🏆-COMMIT%20STREAK-FFD700?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/⭐-STAR%20GAZER-FFD700?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/🔥-PULL%20REQUEST-FFD700?style=for-the-badge&labelColor=0D1117"/>
@@ -486,37 +487,41 @@ Intelligent **Retrieval-Augmented Generation** applications with vector search.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                 CONTRIBUTION SNAKE                           ║ -->
+<!-- ║                 CONTRIBUTION SNAKE & HEATMAP                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<p>
-  <img
-    src="https://raw.githubusercontent.com/Harsh06045/Harsh06045/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<img
+  src="https://ghchart.rshah.org/EC612C/Harsh06045"
+  width="100%"
+  alt="GitHub Contribution Matrix"
+/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║             3D CONTRIBUTION CALENDAR                         ║ -->
+<!-- ║             3D CONTRIBUTION & COMMIT ANALYTICS               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-## 🧊 3D CONTRIBUTION CALENDAR
+## 🧊 COMMIT ANALYTICS & PRODUCTIVE TIME
 
 <img
-  src="./profile-3d-contrib/profile-green-animate.svg"
-  width="100%"
-  alt="3D GitHub Contribution Calendar"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh06045&theme=tokyonight"
+  width="48%"
+  alt="Productive Time"
+/>
+&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh06045&theme=tokyonight"
+  width="48%"
+  alt="Most Committed Language"
 />
 
 </div>
